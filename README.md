@@ -1,0 +1,2 @@
+# ComparativeAnalysisOfCovid-19SpreadInMajor-ImpactedCountries
+Datascience course sem project
